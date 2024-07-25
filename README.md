@@ -1,0 +1,2 @@
+# Link-Budgeting-and-Channel-Characterization-at-mmWave-frequencies
+This project is an investigation into mmWave  propagation characteristics, channel modeling, link budgeting and power distribution among multiple hops between Transmitting and Receiving antennas. NYUSIM channel estimator has been used for channel estimation and its base script is modified in MATLAB that helps in generating channel matrix dataset.
